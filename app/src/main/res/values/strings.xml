@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="edit_user">Usuário</string>
+    <string name="edit_password">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="text_ou">ou</string>
+
+</resources>
